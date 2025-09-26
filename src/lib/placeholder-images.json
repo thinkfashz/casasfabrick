@@ -1,0 +1,77 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Fachada de una casa moderna y minimalista con revestimiento de madera y grandes ventanales.",
+      "imageUrl": "https://images.unsplash.com/photo-1587582423116-ec07293f0395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3Rpb258ZW58MHx8fHwxNzU4NTYyNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction"
+    },
+    {
+      "id": "hero-people",
+      "description": "Una pareja feliz mirando los planos de su nueva casa.",
+      "imageUrl": "https://picsum.photos/seed/hero-people/800/600",
+      "imageHint": "happy couple house plans"
+    },
+    {
+      "id": "tracking-bg",
+      "description": "Obrero de la construcción revisando planos en una tablet dentro de una estructura de edificio.",
+      "imageUrl": "https://picsum.photos/seed/worker-plans/1200/800",
+      "imageHint": "construction worker plans"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Interior de una sala de estar moderna y luminosa con muebles de diseño y vistas al exterior.",
+      "imageUrl": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob3VzZXxlbnwwfHx8fDE3NTg1NjA4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern living room gallery"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Cocina de diseño contemporáneo con isla central, acabados de lujo y electrodomésticos integrados.",
+      "imageUrl": "https://images.unsplash.com/photo-1649766964924-1d257ddf0742?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkcnl3YWxsfGVufDB8fHx8MTc1ODU2Mjg5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "designer kitchen gallery"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Dormitorio principal con una gran cama, iluminación ambiental y acceso a una terraza privada.",
+      "imageUrl": "https://picsum.photos/seed/new-gallery3/600/600",
+      "imageHint": "master bedroom gallery"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Exterior de una residencia moderna por la noche, con iluminación que resalta su arquitectura.",
+      "imageUrl": "https://picsum.photos/seed/new-gallery4/600/600",
+      "imageHint": "modern residence gallery"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Baño de lujo con ducha a ras de suelo, doble lavabo y azulejos de mármol.",
+      "imageUrl": "https://picsum.photos/seed/new-gallery5/600/600",
+      "imageHint": "luxury bathroom gallery"
+    },
+    {
+      "id": "construction-1",
+      "description": "Trabajadores de la construcción montando una estructura de acero en una obra.",
+      "imageUrl": "https://picsum.photos/seed/new-construction1/600/600",
+      "imageHint": "steel structure gallery"
+    },
+    {
+      "id": "construction-2",
+      "description": "Grúa operando en un sitio de construcción de un edificio de varios pisos al atardecer.",
+      "imageUrl": "https://picsum.photos/seed/new-construction2/600/600",
+      "imageHint": "construction crane gallery"
+    },
+    {
+      "id": "construction-3",
+      "description": "Arquitecto e ingeniero discutiendo planos en medio de una obra en construcción.",
+      "imageUrl": "https://picsum.photos/seed/new-construction3/600/600",
+      "imageHint": "architect engineer gallery"
+    },
+    {
+      "id": "methodology-main",
+      "description": "Equipo de construcción trabajando en la estructura de una casa.",
+      "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25zdHJ1Y3Rpb258ZW58MHx8fHwxNzU4NTYyNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction workers"
+    }
+  ]
+}
